@@ -1,5 +1,6 @@
 # wildcard_standup_notes
 
-## Paul
+## Paul Aglipay
+
 - Banking App
 - Improve my skills/abilites
