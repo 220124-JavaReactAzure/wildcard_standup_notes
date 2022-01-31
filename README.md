@@ -24,3 +24,8 @@
 
 - Banking App
 - Getting better at java in general and the logic of coding
+
+## Austin Mcgehee
+
+- Banking App
+- Getting better at organizing my code and importing classes
