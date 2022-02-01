@@ -51,3 +51,30 @@
 ## Paul
 
 - Make it function more like a banking app
+
+# Project Goals for Feb. 
+
+## Christian Mains
+
+- From menu screem to saving data in textfile.
+- building up many menus.
+
+## Jose Luz Pena
+
+- Set up main driver
+- working on making a dao
+
+## Paul Aglipay
+
+- A boilerplate going 
+- working on models for banking app.
+
+## Tracy Bodine
+
+- The main contriller is done.
+- Working on the dao and the controllers.
+
+## Austin Mcgehee
+
+- Set up main driver
+- Set up menu screens
