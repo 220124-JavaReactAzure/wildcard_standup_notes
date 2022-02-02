@@ -52,7 +52,7 @@
 
 - Make it function more like a banking app
 
-# Project Goals for Feb. 
+# Project Goals for Feb. 1 2022
 
 ## Christian Mains
 
@@ -78,3 +78,7 @@
 
 - Set up main driver
 - Set up menu screens
+
+# Stand Up Notes for Feb. 2 2022
+
+The talked about our Collections assignments.
