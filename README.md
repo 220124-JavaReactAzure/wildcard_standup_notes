@@ -82,3 +82,25 @@
 # Stand Up Notes for Feb. 2 2022
 
 The talked about our Collections assignments.
+
+# Stand up Notes Feb, 3 2022
+
+## Jose Pena
+
+- Set up Maven to integrate with my project
+
+## Christian Mains
+
+- Set up data storage to postgres sql server
+
+## Paul Aglipay
+
+- Transitioning into Maven projet
+
+## Austin Mcgehee
+
+- Transition into Maven project
+
+## Tracy Bodine
+
+- Transition into Maven project
