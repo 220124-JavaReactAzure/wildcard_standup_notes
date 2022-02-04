@@ -104,3 +104,23 @@ The talked about our Collections assignments.
 ## Tracy Bodine
 
 - Transition into Maven project
+
+# Stand Up Notes For Feb. 4 2022
+
+## Christia Mains
+
+- ask for help connecting to the server
+- work hard to finish project
+
+## Jose Luz Pena
+
+- Try to get everything to work together
+
+## Paul Aglipay
+
+- get connected to postgris
+
+## Tracy Bodine
+
+- Try to get postgris database to work
+- work on all the menues
