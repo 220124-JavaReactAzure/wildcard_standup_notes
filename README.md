@@ -124,3 +124,22 @@ The talked about our Collections assignments.
 
 - Try to get postgris database to work
 - work on all the menues
+
+#Project Goals (Last week)
+
+## Austin McGehee
+
+- Finished the menu and menurouter
+- Plan to get my program communicating with the database
+
+## Christian Mains
+
+- Finished login
+- Setup class model and edit class methods
+
+## Paul Aglipay
+
+- Finished the base of the program
+- Tweaking the functions
+
+
