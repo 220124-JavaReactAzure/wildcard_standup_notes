@@ -142,4 +142,18 @@ The talked about our Collections assignments.
 - Finished the base of the program
 - Tweaking the functions
 
+# Sand Up Notes For Feb. 82022
+
+## Christian Mains
+
+- I have faculty creating new classes.
+- No time, ignore little bugs and drive on functionality.
+
+## Paul Aglipay
+
+- Done with cleaning up making minor edits
+
+## Tracy Bodine
+
+- Try to get all menu systems to work, fix all bugs
 
