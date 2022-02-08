@@ -157,3 +157,7 @@ The talked about our Collections assignments.
 
 - Try to get all menu systems to work, fix all bugs
 
+## Austin Mcgehee
+
+- Try to figure out the database connection and login function
+
