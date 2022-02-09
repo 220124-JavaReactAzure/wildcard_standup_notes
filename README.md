@@ -157,3 +157,22 @@ The talked about our Collections assignments.
 
 - Try to get all menu systems to work, fix all bugs
 
+## Stand Up Notes For Feb. 9 2022
+
+#Christian Mains
+- My connection to the DataBase whent well and my use of menues.
+- I could impove on Testing, and planning my code structure.
+- First Plan my code and write tests for code as I write them.
+
+# Paul Aglipay
+
+- Got the Basic applications
+- Impove in Testing, logging, calculation methods
+- Better Time managment
+
+# Tracy Bodine
+
+- Got Menues to work and fixed DataBase connection
+- Impove on Testing Logging, and pull form DataBase and make display
+- Better Time Management, communicate with pears, and planning app better
+
