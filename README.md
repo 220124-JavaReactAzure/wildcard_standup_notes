@@ -160,6 +160,7 @@ The talked about our Collections assignments.
 ## Stand Up Notes For Feb. 9 2022
 
 #Christian Mains
+
 - My connection to the DataBase whent well and my use of menues.
 - I could impove on Testing, and planning my code structure.
 - First Plan my code and write tests for code as I write them.
@@ -175,6 +176,10 @@ The talked about our Collections assignments.
 - Got Menues to work and fixed DataBase connection
 - Impove on Testing Logging, and pull form DataBase and make display
 - Better Time Management, communicate with pears, and planning app better
+
+# Austin Mcgehee
+
+- Try to figure out the database connection and login function
 
 ## Stand up Notes for Feb. 10 2022
 
