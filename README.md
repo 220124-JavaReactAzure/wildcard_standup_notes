@@ -176,3 +176,7 @@ The talked about our Collections assignments.
 - Impove on Testing Logging, and pull form DataBase and make display
 - Better Time Management, communicate with pears, and planning app better
 
+## Stand up Notes for Feb. 10 2022
+
+As A group we will continue to work to improve our coding skills and become better
+at using the tools introduced to us.
