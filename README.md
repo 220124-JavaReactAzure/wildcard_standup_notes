@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # wildcard_standup_notes
 
 ## Paul Aglipay
@@ -185,3 +186,4 @@ The talked about our Collections assignments.
 
 As A group we will continue to work to improve our coding skills and become better
 at using the tools introduced to us.
+
