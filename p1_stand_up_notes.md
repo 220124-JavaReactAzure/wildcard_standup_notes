@@ -18,4 +18,16 @@
 - Understanding full requirements
 - and researching techStack
 
-## 
+## Second stand up notes for P1 Projects (Feb. 14, 2022)
+
+# CM & TB
+
+- Worked to become familiar with servlets
+- Plan to build basic structure and plan out project
+
+# AM & PA
+
+- Planned out the structure of our srevlets and database
+- Worked on our git flow and planned our branching
+- Started the basic servlets
+
