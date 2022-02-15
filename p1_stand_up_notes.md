@@ -31,3 +31,15 @@
 - Worked on our git flow and planned our branching
 - Started the basic servlets
 
+## Third stand up notes for P1 Project (Feb. 15, 2022)
+
+# CM & TB
+
+- Build basic struture and plan out project
+
+# AM & PA
+
+- Work out some merge conflics and
+- work out github problems
+
+## 
