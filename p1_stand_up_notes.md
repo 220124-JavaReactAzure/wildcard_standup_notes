@@ -42,4 +42,19 @@
 - Work out some merge conflics and
 - work out github problems
 
-## 
+## Fourth stand up notes for P1 project (Feb. 16. 2022)
+
+# CM & TB
+
+- Build basic struture and plan out project
+
+# AM & PA
+
+- Work out some merge conflics and
+- work out github problems
+- Build basic structure
+
+## Fifth stand up notes for P1 project (Feb. 
+
+
+
