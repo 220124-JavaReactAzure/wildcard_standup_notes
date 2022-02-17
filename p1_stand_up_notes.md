@@ -54,7 +54,29 @@
 - work out github problems
 - Build basic structure
 
-## Fifth stand up notes for P1 project (Feb. 
+## Fifth stand up notes for P1 project (Feb. 17 2022)
+
+# CM & TB
+
+- Got testServlet working
+- trying to get employee account to post to database
+- set up Azure server
+
+# AM & PA
+
+- Got user and wedding object working
+- try to fix issues with laptop
+
+## Sixth stand up notes for P1 project (Feb. 
+
+
+
+
+
+
+
+
+
 
 
 
