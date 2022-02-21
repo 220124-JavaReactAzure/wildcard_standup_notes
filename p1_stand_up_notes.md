@@ -69,13 +69,17 @@
 
 ## Sixth stand up notes for P1 project (Feb. 21 2022)
 
+# CM & TB
+
+- Got Several models , services, Dao's, and servlets working.
+- Start adding Service Logic and Mocito Tests.
+
 # AM & PA
 
 - Set up Services with service_ids
 - implement the add services function for employees
 
-
-
+## Seventh Stand up notes for P1 project (Feb. 
 
 
 
