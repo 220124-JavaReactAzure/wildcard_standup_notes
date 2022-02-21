@@ -67,7 +67,12 @@
 - Got user and wedding object working
 - try to fix issues with laptop
 
-## Sixth stand up notes for P1 project (Feb. 
+## Sixth stand up notes for P1 project (Feb. 21 2022)
+
+# AM & PA
+
+- Set up Services with service_ids
+- implement the add services function for employees
 
 
 
