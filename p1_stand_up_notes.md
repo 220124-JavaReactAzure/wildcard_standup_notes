@@ -79,13 +79,15 @@
 - Set up Services with service_ids
 - implement the add services function for employees
 
-## Seventh Stand up notes for P1 project (Feb. 
+## Seventh Stand up notes for P1 project (Feb. 22 2022)
 
+# CM & TB
 
+- Finish models to Servlet and DAO
+- Implement logging and Mockito tests
 
+# AM & PA
 
-
-
-
-
+- Fix Meal Servlets and make those added to database
+- Work on Services
 
