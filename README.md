@@ -187,3 +187,20 @@ The talked about our Collections assignments.
 As A group we will continue to work to improve our coding skills and become better
 at using the tools introduced to us.
 
+## Stand up Notes for Feb. 22 2022
+
+# Christian Mains
+
+- Improve on SQL notes and Web notes
+
+# Austin Mcgehee
+
+- Work on my understanding of Hibernate and SQL differences
+
+# Tracy Bodine
+
+- Reviewing weeks 1, 2, & 3 flashcards and better understand Hibernate with P1
+
+# Paul Aglipay
+
+- Work on understanding Spring better
