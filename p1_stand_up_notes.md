@@ -91,3 +91,17 @@
 - Fix Meal Servlets and make those added to database
 - Work on Services
 
+## Eight Stand up notes for P1 project (Feb. 23, 2022)
+
+# CM & TB
+
+- finnished models ane servlets
+- implement logging and service tests
+- pollish code
+
+# AM & PA
+
+- finnished meal_types
+- working on employee_types
+
+## Nineth Stand up notes for P1 Project (Feb. 
