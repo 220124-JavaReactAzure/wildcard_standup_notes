@@ -204,3 +204,18 @@ at using the tools introduced to us.
 # Paul Aglipay
 
 - Work on understanding Spring better
+
+## Stand up Notes for Feb. 24 2022
+
+# Austin & Paul
+
+- Plan out or presentation
+- check for any bugs in our code
+
+#  Christian & Tracy
+
+- Review the relationships
+- Write more tests
+- Practice presentation
+
+
