@@ -10,3 +10,7 @@
 -  Created basic skeleton of the front-end with static data.
 -  Did more research on Spring projects and beans
 
+# Mar. 3 2022
+- Working on getting a Spring boot application working
+
+
