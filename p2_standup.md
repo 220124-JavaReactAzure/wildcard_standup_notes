@@ -13,4 +13,9 @@
 # Mar. 3 2022
 - Working on getting a Spring boot application working
 
+# Mar. 4 2022
+- Working on all the offender related classes
+- Offender DAOs
+- Created sample Spring Boot application, sample database, had successful persistence, and tested endpoints with Postman
+
 
