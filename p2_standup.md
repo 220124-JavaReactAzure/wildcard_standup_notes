@@ -18,4 +18,13 @@
 - Offender DAOs
 - Created sample Spring Boot application, sample database, had successful persistence, and tested endpoints with Postman
 
+# Mar. 8 2022
+- Completed registration functionality for deputies
+- Update and delete functionality for deputies to use for offender
+- working on getting the deputy directory updated
+- researching how to leverage an external API 
+- reseraching Base 64 for storing image files
+
+
+
 
