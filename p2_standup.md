@@ -25,6 +25,12 @@
 - researching how to leverage an external API 
 - reseraching Base 64 for storing image files
 
+# Mar. 9 2022
+- Restructuring project to pass requests, rather than Models
+- Incorporated AOP into projects
+- Incorporated custom exceptions
+- Creating a form for offenses with React
+
 
 
 
